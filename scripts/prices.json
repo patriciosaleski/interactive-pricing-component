@@ -1,0 +1,27 @@
+[
+    {
+        "tier": 0,
+        "target_audience": "20K",
+        "price": 5.00
+    },
+    {
+        "tier": 1,
+        "target_audience": "50K",
+        "price": 12.00
+    },
+    {
+        "tier": 2,
+        "target_audience": "100K",
+        "price": 16.00
+    },
+    {
+        "tier": 3,
+        "target_audience": "150K",
+        "price": 20.00
+    },
+    {
+        "tier": 4,
+        "target_audience": "500K",
+        "price": 40.00
+    }
+]
